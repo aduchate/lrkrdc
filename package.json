@@ -1,0 +1,9 @@
+{
+  "name": "collections-samples",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "deno test index.ts"
+  }
+}
